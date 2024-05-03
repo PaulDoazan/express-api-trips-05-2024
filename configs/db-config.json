@@ -1,0 +1,16 @@
+{
+    "development": {
+        "username": "root",
+        "password": null,
+        "database": "trips",
+        "host": "127.0.0.1",
+        "dialect": "mariadb"
+    },
+    "production": {
+        "username": "bl8so***********",
+        "password": "eura8***********",
+        "database": "qb9f0***********",
+        "host": "iu51m********************************************",
+        "dialect": "mariadb"
+    }
+}
